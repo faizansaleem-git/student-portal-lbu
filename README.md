@@ -96,4 +96,3 @@ App starts on http://localhost:8080
 ### 4. Frontend
 Open student-portal-frontend/index.html with VS Code Live Server.
 Runs on http://127.0.0.1:5500
----
